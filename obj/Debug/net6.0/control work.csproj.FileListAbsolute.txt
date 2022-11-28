@@ -1,0 +1,15 @@
+D:\GeekBrains\C#Introduction\control work\bin\Debug\net6.0\control work.exe
+D:\GeekBrains\C#Introduction\control work\bin\Debug\net6.0\control work.deps.json
+D:\GeekBrains\C#Introduction\control work\bin\Debug\net6.0\control work.runtimeconfig.json
+D:\GeekBrains\C#Introduction\control work\bin\Debug\net6.0\control work.dll
+D:\GeekBrains\C#Introduction\control work\bin\Debug\net6.0\control work.pdb
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.csproj.AssemblyReference.cache
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.AssemblyInfoInputs.cache
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.AssemblyInfo.cs
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.dll
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\refint\control work.dll
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.pdb
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\control work.genruntimeconfig.cache
+D:\GeekBrains\C#Introduction\control work\obj\Debug\net6.0\ref\control work.dll
